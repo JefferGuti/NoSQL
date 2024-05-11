@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "Entrenador": "Fernando G",
+    "Profesion": "Licenciado en E.F",
+    "Experiencia": "2 años",
+    "Equipo": "DeportivoBogota"
+  }
+},
+{
+  "_id": {
+    "Entrenador": "Jonathan G",
+    "Profesion": "Licenciado en E.F",
+    "Experiencia": "1 año",
+    "Equipo": "DeportivoCali"
+  }
+},
+{
+  "_id": {
+    "Entrenador": "Felipe M",
+    "Profesion": "Licenciado en E.F",
+    "Experiencia": "5 años",
+    "Equipo": "DeportivoTolima"
+  }
+},
+{
+  "_id": {
+    "Entrenador": "Marcela L",
+    "Profesion": "Licenciada en E.F",
+    "Experiencia": "2 años",
+    "Equipo": "DeportivoHuila"
+  }
+},
+{
+  "_id": {
+    "Entrenador": "Gerardo R",
+    "Profesion": "Licenciado en E.F",
+    "Experiencia": "5 años",
+    "Equipo": "DeportivoMedellin"
+  }
+}]

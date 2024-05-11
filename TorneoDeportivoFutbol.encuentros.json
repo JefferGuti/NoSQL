@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "Fecha": "11 de mayo de 2024",
+    "Lugar": "Estadio el Campin",
+    "Equipo1": "Medellin",
+    "Equipo2": "Cali",
+    "Arbitro": "Jorge",
+    "Resultado": "2-0",
+    "Ganador": "Medellin"
+  }
+},
+{
+  "_id": {
+    "Fecha": "8 de mayo de 2024",
+    "Lugar": "Estadio el Campin",
+    "Equipo1": "Bogota",
+    "Equipo2": "Tolima",
+    "Arbitro": "Jorge",
+    "Resultado": "3-0",
+    "Ganador": "Tolima"
+  }
+},
+{
+  "_id": {
+    "Fecha": "5 de mayo de 2024",
+    "Lugar": "Estadio el Campin",
+    "Equipo1": "Huila",
+    "Equipo2": "Tolima",
+    "Arbitro": "Jose",
+    "Resultado": "1-0",
+    "Ganador": "Tolima"
+  }
+},
+{
+  "_id": {
+    "Fecha": "11 de mayo de 2024",
+    "Lugar": "Estadio el Campin",
+    "Equipo1": "Cali",
+    "Equipo2": "Bogota",
+    "Arbitro": "Jose",
+    "Resultado": "1-1",
+    "Ganador": "No pasaron"
+  }
+},
+{
+  "_id": {
+    "Fecha": "15 de junio de 2024",
+    "Lugar": "Estadio el Campin",
+    "Equipo1": "Medellin",
+    "Equipo2": "Tolima",
+    "Arbitro": "Jorge",
+    "Resultado": "Pendiente",
+    "Ganador": "Pendiente"
+  }
+}]

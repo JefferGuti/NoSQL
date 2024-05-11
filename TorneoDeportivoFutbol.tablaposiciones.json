@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "Equipo": "Tolima",
+    "Posicion": "1",
+    "Victorias": "2"
+  }
+},
+{
+  "_id": {
+    "Equipo": "Medellin",
+    "Posicion": "2",
+    "Victorias": "1"
+  }
+},
+{
+  "_id": {
+    "Equipo": "Bogota",
+    "Posicion": "3",
+    "Victorias": "0"
+  }
+},
+{
+  "_id": {
+    "Equipo": "Huila",
+    "Posicion": "5",
+    "Victorias": "0"
+  }
+},
+{
+  "_id": {
+    "Equipo": "Cali",
+    "Posicion": "4",
+    "Victorias": "0"
+  }
+}]

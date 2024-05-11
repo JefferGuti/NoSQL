@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "Jugador": "James",
+    "Edad": "15 años",
+    "Familiar": "Maria",
+    "Telefono": "320321654987",
+    "Equipo": "DeportivoBogota"
+  }
+},
+{
+  "_id": {
+    "Jugador": "Cristiano",
+    "Edad": "18 años",
+    "Familiar": "Carolina",
+    "Telefono": "3204475827",
+    "Equipo": "DeportivoTolima"
+  }
+},
+{
+  "_id": {
+    "Jugador": "Michael",
+    "Edad": "15 años",
+    "Familiar": "Yeimmy",
+    "Telefono": "3002544136",
+    "Equipo": "DeportivoHuila"
+  }
+},
+{
+  "_id": {
+    "Jugador": "Leonardo",
+    "Edad": "19 años",
+    "Familiar": "Alvaro",
+    "Telefono": "3508933259",
+    "Equipo": "DeportivoMedellin"
+  }
+},
+{
+  "_id": {
+    "Jugador": "Daniel",
+    "Edad": "20 años",
+    "Familiar": "German",
+    "Telefono": "3015584769",
+    "Equipo": "DeportivoCali"
+  }
+}]

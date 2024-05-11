@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "Arbitro": "Jorge",
+    "Profesion": "Licenciado en E.F",
+    "Edad": "30",
+    "Experiencia": "10 años"
+  }
+},
+{
+  "_id": {
+    "Arbitro": "Jose",
+    "Profesion": "Licenciado en E.F",
+    "Edad": "35",
+    "Experiencia": "13 años"
+  }
+}]

@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "Nombre": "DeportivoTolima",
+    "Ciudad": "Ibague",
+    "Año": 2000
+  }
+},
+{
+  "_id": {
+    "Nombre": "DeportivoBogota",
+    "Ciudad": "Bogota",
+    "Año": 2000
+  }
+},
+{
+  "_id": {
+    "Nombre": "DeportivoCali",
+    "Ciudad": "Cali",
+    "Año": 2000
+  }
+},
+{
+  "_id": {
+    "Nombre": "DeportivoMedellin",
+    "Ciudad": "Medellin",
+    "Año": 2000
+  }
+},
+{
+  "_id": {
+    "Nombre": "DeportivoHuila",
+    "Ciudad": "Huila",
+    "Año": 2000
+  }
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "Ronda": "1",
+    "Campeon": "Medellin"
+  }
+},
+{
+  "_id": {
+    "Ronda": "1",
+    "Campeon": "Tolima"
+  }
+},
+{
+  "_id": {
+    "Ronda": "1",
+    "Campeon": "Ninguno"
+  }
+},
+{
+  "_id": {
+    "Ronda": "2",
+    "Campeon": "Tolima"
+  }
+},
+{
+  "_id": {
+    "Ronda": "2",
+    "Campeon": "Medellin"
+  }
+},
+{
+  "_id": {
+    "Ronda": "3",
+    "Campeon": "pendiente"
+  }
+}]
